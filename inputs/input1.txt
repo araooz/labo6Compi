@@ -1,0 +1,13 @@
+var int x;
+
+def void main()
+
+    x = 0;
+
+    do
+        print(x);
+        x += 1
+    while x < 5
+    enddo
+
+endfun

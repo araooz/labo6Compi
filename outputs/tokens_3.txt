@@ -1,0 +1,25 @@
+Scanner
+
+TOKEN(DEF, "def")
+TOKEN(ID, "void")
+TOKEN(ID, "saludar")
+TOKEN(LPAREN, "(")
+TOKEN(RPAREN, ")")
+TOKEN(PRINT, "print")
+TOKEN(LPAREN, "(")
+TOKEN(NUM, "100")
+TOKEN(RPAREN, ")")
+TOKEN(ENDFUN, "endfun")
+TOKEN(DEF, "def")
+TOKEN(ID, "void")
+TOKEN(ID, "main")
+TOKEN(LPAREN, "(")
+TOKEN(RPAREN, ")")
+TOKEN(ID, "saludar")
+TOKEN(LPAREN, "(")
+TOKEN(RPAREN, ")")
+TOKEN(ENDFUN, "endfun")
+TOKEN(END)
+
+Scanner exitoso
+

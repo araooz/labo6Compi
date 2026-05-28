@@ -1,0 +1,9 @@
+def void saludar()
+    print(100)
+endfun
+
+def void main()
+
+    saludar()
+
+endfun

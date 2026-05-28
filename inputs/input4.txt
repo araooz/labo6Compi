@@ -1,0 +1,11 @@
+def void mostrar(int x, int y)
+
+    print(x + y)
+
+endfun
+
+def void main()
+
+    mostrar(4, 7)
+
+endfun

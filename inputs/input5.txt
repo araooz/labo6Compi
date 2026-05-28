@@ -1,0 +1,12 @@
+var int puntos;
+
+def void main()
+
+    puntos = 10;
+
+    puntos += 5;
+    puntos += 20;
+
+    print(puntos)
+
+endfun
