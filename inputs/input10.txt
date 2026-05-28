@@ -23,7 +23,7 @@ def void recorrer()
 
         if esLimite(i) then
             break
-        endif
+        endif;
 
         suma += i;
 
